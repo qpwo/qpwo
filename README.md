@@ -1,6 +1,6 @@
 index.html:
 
-- pows -- cut your ping in half -- https://github.com/qpwo/pows
+- pows -- cut your latency in half -- https://github.com/qpwo/pows
 - Search all the major search indexes at once: [SearchAll](http://lukemiles.org/searchall/)
 - Call people and play games or make art at the same time in one app: [SplashCall](https://splashcall.com)
 - Chrome [extension](https://chrome.google.com/webstore/detail/sort-by-random-shuffle-li/bkmcphdnmpfdcopiefafdbgknighhhin) for sorting lists by random
